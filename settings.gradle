@@ -1,2 +1,3 @@
 rootProject.name = "My Test Package"
 include ':app'
+include ':my package library'
